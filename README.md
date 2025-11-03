@@ -30,19 +30,3 @@ google-genai
 jupyter
 ```
 
-## License
-
-MIT License
-
-## .gitignore
-
-```
-__pycache__/
-.ipynb_checkpoints/
-.venv/
-.env
-*.log
-.DS_Store
-```
-
-
